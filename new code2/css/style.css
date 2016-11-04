@@ -1,4 +1,6 @@
 
+
+
 @import "https://fonts.googleapis.com/css?family=Catamaran";
 html, body {
   width: 100%;
@@ -7,22 +9,10 @@ html, body {
   padding: 0;
   font-family: 'Catamaran', sans-serif;
 }
-button{
-      background: rgba(0,0,0,0.5);
-      opacity: 0,3%;
-
-}
-
-button: hover{
-      background: rgba(0,0,0,0.5);
-      opacity: 0,3%;
-
-}
-
 
 body {
-     background-image: url("/home/up4all/bootstrap-3.3.7-dist/9e759fd37ccd98da121b670249f34afa.gif");
-     background-size: 250px;
+     background-image: url("/home/up4all/Desktop/9e759fd37ccd98da121b670249f34afa.gif");
+     background-size: 
 
 }
 
